@@ -1,0 +1,1 @@
+spark-submit --master local[10] --jars spark-streaming-mqtt-assembly_2.11-1.6.1.jar StreamProcessing/post_structure_processing.py

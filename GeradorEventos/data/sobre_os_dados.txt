@@ -1,0 +1,7 @@
+Coloque aqui neste diretório os arquivos de dados '.dat'
+
+*   friendships.dat
+*   comments.dat
+*   likes.dat
+*   posts.dat
+

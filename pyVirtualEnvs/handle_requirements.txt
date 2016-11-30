@@ -1,0 +1,12 @@
+#To save current requirements, do
+
+```bash
+pip freeze > FILENAME
+```
+
+# To download modules from a requirements file, do
+
+```bash
+pip install -r FILENAME
+```
+
